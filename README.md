@@ -6,5 +6,6 @@ It is meant to be a payment or ordering system. It comes with a graphical user i
 If the first and lastname matches with a former customer it will automatically fill in the rest of the order form as the customer ordered last time.
 
 The GUI looks like this:
+
 ![JavaPaymentSystem](https://user-images.githubusercontent.com/107481094/182882652-ef8a4bf3-5634-4fe8-b2e0-82da281d5751.JPG)
 
